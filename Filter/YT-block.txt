@@ -1,11 +1,9 @@
-
-! Title: Block YouTube and MP4 Videos
-! Description: Blocks YouTube videos and MP4 video embeds on websites
-! Version: 1.01
-
+! Title: Block YouTube and MP4 Videos 
+! Description: Blocks YouTube videos and MP4 video embeds on websites, using a click-to-load mechanism
+! Version: 1.03
 
 !#if ext_ublock
-||youtube.com^$3p,frame
-||youtube-nocookie.com^$3p,frame
-||*.mp4$media
+||youtube.com^$3p,frame,redirect=click2load.html
+||youtube-nocookie.com^$3p,frame,redirect=click2load.html
+||*.mp4$media,redirect=click2load.html
 !#endif
