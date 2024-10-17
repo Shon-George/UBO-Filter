@@ -3,4 +3,7 @@
 @@||ytimg.com^$image
 @@*$image
 @@*$media
+@@*.$media
+@@*.$mp4
+@@*.$ogg
 !#endif
