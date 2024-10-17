@@ -5,7 +5,7 @@
 
 
 !#if ext_ublock
-||youtube.com^$3p,frame,block
-||youtube-nocookie.com^$3p,frame,block
-||*.mp4$media,block
+||youtube.com^$3p,frame
+||youtube-nocookie.com^$3p,frame
+||*.mp4$media
 !#endif
