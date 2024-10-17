@@ -1,7 +1,7 @@
 
 ! Title: Block YouTube and MP4 Videos
 ! Description: Blocks YouTube videos and MP4 video embeds on websites
-! Version: 1.0
+! Version: 1.01
 
 
 !#if ext_ublock
