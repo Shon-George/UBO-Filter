@@ -1,0 +1,4 @@
+youtube.com * 3p-frame block   
+ytimg.com * image allow        
+* * image allow                
+* * media allow                
