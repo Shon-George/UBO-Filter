@@ -1,5 +1,5 @@
 # UBO-Filter  
-<div align="left">
+<div align="right">
   <img src="https://img.shields.io/badge/uBlock%20Origin-v1.48.0-brightgreen?style=for-the-badge&logo=uBlock%20Origin" alt="uBlock Origin">
 </div>
 
