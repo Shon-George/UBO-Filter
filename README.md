@@ -48,7 +48,7 @@ Turns many third-party audio and video players into click-to-load placeholders w
 </a>
 
 <div align="right">
-  <a href="https://github.com/shon-1/UBO-Filter/stargazers">
+  <a href="(https://github.com/shon-1">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshon-1%2FUBO-Filter&count_bg=%23FF5733&title_bg=%23000000&icon=fire.svg&icon_color=%23FFFFFF&title=🔥+Hot+Visitors&edge_flat=true" alt="Visitor Count">
   </a>
 </div>
