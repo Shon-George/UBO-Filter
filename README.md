@@ -22,3 +22,5 @@ Benefits : faster page load, less bandwidth and browser resources used upfront. 
 
 
 ![Visitor Count](https://counter.dev/image?id=6fcde43c-6338-48a5-905b-56914edb1a68)
+
+https://counter.dev/image?id=6fcde43c-6338-48a5-905b-56914edb1a68
