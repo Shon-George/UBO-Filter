@@ -6,10 +6,11 @@ uBlock Origin
 
 To import custom filters into uBlock Origin:
 
-    Click the subscribe link by one of the entries below.
-    In the new tab that opens, click on Subscribe in the top right corner.
-    Close tab, then repeat for other lists you want to add to uBO.
+1 - Click the subscribe link by one of the entries below.
+2 - In the new tab that opens, click on Subscribe in the top right corner.
+3 - Close tab
 
+To remove You can use uBlock Dashboard
 -----------------------------------------------------------------------------------
 
 ## Click-To-Load
