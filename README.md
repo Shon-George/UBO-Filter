@@ -37,8 +37,7 @@ Turns many third-party audio and video players into click-to-load placeholders w
 ![GitHub Repo stars](https://img.shields.io/github/stars/shon-1/UBO-Filter?color=yellow&label=Stars&logo=github)
 ![GitHub forks](https://img.shields.io/github/forks/shon-1/UBO-Filter?label=Forks&logo=git)
 ![GitHub issues](https://img.shields.io/github/issues/shon-1/UBO-Filter?color=red&label=Issues)
-![License](https://img.shields.io/github/license/shon-1/UBO-Filter?label=License)    
-<div align="right">
+![License](https://img.shields.io/github/license/shon-1/UBO-Filter?label=License)    <div align="right">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshon-1%2FUBO-Filter&count_bg=%23FF5733&title_bg=%23000000&icon=fire.svg&icon_color=%23FFFFFF&title=🔥+Hot+Visitors&edge_flat=true" alt="Visitor Count">
 </div>
 
