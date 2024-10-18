@@ -30,7 +30,7 @@ Turns many third-party audio and video players into click-to-load placeholders w
 
 👨‍💻 **Developed By:** [Shon George](https://github.com/shon-1)  
 🚀 **Project URL:** [UBO-Filter Repository](https://github.com/shon-1/UBO-Filter)  
-📢 **Report Issues:** [Open an Issue](https://github.com/shon-1/UBO-Filter/issues)  ![uBlock Origin](https://img.shields.io/badge/uBlock%20Origin-v1.48.0-brightgreen?style=for-the-badge&logo=uBlock%20Origin)  
+📢 **Report Issues:** [Open an Issue](https://github.com/shon-1/UBO-Filter/issues)                                    ![uBlock Origin](https://img.shields.io/badge/uBlock%20Origin-v1.48.0-brightgreen?style=for-the-badge&logo=uBlock%20Origin)  
 
 ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshon-1%2FUBO-Filter&count_bg=%23FF5733&title_bg=%23000000&icon=fire.svg&icon_color=%23FFFFFF&title=🔥+Hot+Visitors&edge_flat=true)
 
