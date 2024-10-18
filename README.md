@@ -21,6 +21,5 @@ Turns many third-party audio and video players into click-to-load placeholders w
 Benefits : faster page load, less bandwidth and browser resources used upfront. Also, lower privacy exposure -- notice the "Domains connected" figures.
 
 
-![Visitor Count](https://counter.dev/image?id=6fcde43c-6338-48a5-905b-56914edb1a68)
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshon-1%2FUBO-Filter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)
 
-https://counter.dev/image?id=6fcde43c-6338-48a5-905b-56914edb1a68
