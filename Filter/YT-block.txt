@@ -6,4 +6,11 @@
 ||youtube.com^$3p,frame,redirect=click2load.html
 ||youtube-nocookie.com^$3p,frame,redirect=click2load.html
 ||*.mp4$media,redirect=click2load.html
+||docs.google.com/$3p,frame,redirect=click2load.html
+||docs.google.com/document/d/e/$3p,frame,redirect=click2load.html
+||docs.google.com/forms/$3p,frame,redirect=click2load.html
+||docs.google.com/presentation/d/e/$3p,frame,redirect=click2load.html
+||docs.google.com/spreadsheets/$3p,frame,redirect=click2load.html
+||docs.google.com/viewer*$3p,frame,redirect=click2load.html
+||drive.google.com/file/$3p,frame,redirect=click2load.html
 !#endif
