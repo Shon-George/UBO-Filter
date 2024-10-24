@@ -17,9 +17,9 @@ To remove, you can use the **uBlock Dashboard**.
 ---
 
 ## **⭐Click-To-Load**
-Turns many third-party audio and video players into click-to-load placeholders which only load once a user clicks on it.
+Turns many third-party audio and video players into click-to-load placeholders , only load once a user clicks on it.
 
-[Click here to subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Shon-George/UBO-Filter/refs/heads/main/Filter/ClickToLoad.txt&title=YouTube%20Blocklist)
+👉 [Click here to subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Shon-George/UBO-Filter/refs/heads/main/Filter/ClickToLoad.txt&title=YouTube%20Blocklist)
 
 ### **Benefits**
 - Faster page load  
